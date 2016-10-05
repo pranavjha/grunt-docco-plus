@@ -2,7 +2,7 @@
     "name": "grunt-docco-plus",
     "description": "Grunt plugin for docco-plus",
     "homepage": "http://smravi.github.io/grunt-docco-plus",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "author": "Ravi Sruthi <sruthiin92@gmail.com> (https://github.com/smravi)",
     "contributors": [
         {
@@ -35,19 +35,19 @@
         "docco-plus": "^2.0.0"
     },
     "devDependencies": {
-        "grunt": "^0",
-        "grunt-contrib-clean": "^0",
-        "grunt-contrib-jshint": "^0",
-        "grunt-coveralls": "^1.0.0",
-        "grunt-env": "^0.4.4",
-        "grunt-gh-pages": "^1.0.0",
-        "grunt-istanbul": "^0.6.1",
+        "grunt": "^1",
+        "grunt-contrib-clean": "^1",
+        "grunt-contrib-jshint": "^1",
+        "grunt-coveralls": "^1",
+        "grunt-env": "^0",
+        "grunt-gh-pages": "^1",
+        "grunt-istanbul": "^0",
         "grunt-mocha-test": "^0",
-        "sinon": "^1.17.3",
-        "sinon-chai": "^2.8.0"
+        "sinon": "^1",
+        "sinon-chai": "^2"
     },
     "peerDependencies": {
-        "grunt": ">=0.4.0"
+        "grunt": "^1"
     },
     "keywords": [
         "gruntplugin",
