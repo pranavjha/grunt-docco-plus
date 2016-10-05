@@ -57,5 +57,8 @@
         "folder",
         "generator",
         "literate"
-    ]
+    ],
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    }
 }
